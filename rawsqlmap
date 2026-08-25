@@ -1,0 +1,11 @@
+GET /search?q=admin HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,be;q=0.6
+Connection: keep-alive
+Cookie: session=eyJ1c2VyX2lkIjoxfQ.ahlllw.D530ZANarasndzT6J-zKKDwvBY8
+Host: 62.173.140.174:36114
+Referer: http://62.173.140.174:36114/search?q=123
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+
